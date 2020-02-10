@@ -24,7 +24,9 @@ namespace starter_l6_taks2
                 a++;
                 if (a % 2 != 0)
                     Console.Write(a + ",");
+                
             }
+            Console.WriteLine("Roma privet!");
         }
     }
 }
