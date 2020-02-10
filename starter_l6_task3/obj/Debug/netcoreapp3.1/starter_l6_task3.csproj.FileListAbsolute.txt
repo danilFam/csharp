@@ -1,0 +1,10 @@
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.exe
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.deps.json
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.runtimeconfig.json
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.runtimeconfig.dev.json
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.dll
+D:\csharp\starter_l6_task3\bin\Debug\netcoreapp3.1\starter_l6_task3.pdb
+D:\csharp\starter_l6_task3\obj\Debug\netcoreapp3.1\starter_l6_task3.AssemblyInfoInputs.cache
+D:\csharp\starter_l6_task3\obj\Debug\netcoreapp3.1\starter_l6_task3.AssemblyInfo.cs
+D:\csharp\starter_l6_task3\obj\Debug\netcoreapp3.1\starter_l6_task3.dll
+D:\csharp\starter_l6_task3\obj\Debug\netcoreapp3.1\starter_l6_task3.pdb
