@@ -17,29 +17,36 @@ namespace starter_l8_task4
             InitializeComponent();
         }
 
-        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkedListBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkedListBox2_SelectedIndexChanged(object sender, EventArgs e)
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            if (radioButton1.Checked==true)
+            {
+                if (Convert.ToDouble(textBox2.Text)!=0)
+                {
+                    textBox3.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) / Convert.ToDouble(textBox2.Text));
+                }
+                else
+                {
+                    textBox3.Text = "На нуль делить нельзя";
+                }
+            }
+            if (radioButton2.Checked==true)
+            {
+                textBox3.Text = Convert.ToString(Convert.ToDouble(textBox1.Text) % Convert.ToDouble(textBox2.Text));
+            }
+            if (radioButton3.Checked==true)
+            {
+                textBox3.Text = textBox1.Text + textBox2.Text;
+            }
+            if (radioButton4.Checked==true)
+            {
+                textBox3.Text = Convert.ToString(Math.Pow(Convert.ToDouble(textBox1.Text), Convert.ToDouble(textBox2.Text)));
+            }
         }
     }
 }

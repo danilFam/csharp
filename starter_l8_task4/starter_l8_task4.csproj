@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{149BB9C4-430E-4D38-A626-6934CED9D119}</ProjectGuid>
+    <ProjectGuid>{889A1529-EEDA-4503-A909-034E65065F6D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>starter_l8_task4</RootNamespace>
     <AssemblyName>starter_l8_task4</AssemblyName>
