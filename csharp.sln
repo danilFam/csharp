@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "essential_l1_doptask", "ess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "essential_l1_task2", "essential_l1_doptask\essential_l1_task2\essential_l1_task2.csproj", "{F62BB274-966B-4F08-9E4C-274B2614837B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "essential_l1_task3", "essential_l1_task3\essential_l1_task3.csproj", "{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "essential_l1_task4", "essential_l1_task4\essential_l1_task4.csproj", "{1D85BDC0-DADC-4515-A02D-0B12ECCD413E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{F62BB274-966B-4F08-9E4C-274B2614837B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62BB274-966B-4F08-9E4C-274B2614837B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62BB274-966B-4F08-9E4C-274B2614837B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D85BDC0-DADC-4515-A02D-0B12ECCD413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D85BDC0-DADC-4515-A02D-0B12ECCD413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D85BDC0-DADC-4515-A02D-0B12ECCD413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D85BDC0-DADC-4515-A02D-0B12ECCD413E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +191,8 @@ Global
 		{778EEEEB-EC88-44E5-986B-F86780AB1498} = {FBB0340A-7015-4BAB-9B66-7EA7799DA247}
 		{30C0C2D7-81EA-4DC2-83F9-EF8E40AD7646} = {778EEEEB-EC88-44E5-986B-F86780AB1498}
 		{F62BB274-966B-4F08-9E4C-274B2614837B} = {778EEEEB-EC88-44E5-986B-F86780AB1498}
+		{FBFCB16E-D42C-4A5D-95D1-2F55FA937ECA} = {778EEEEB-EC88-44E5-986B-F86780AB1498}
+		{1D85BDC0-DADC-4515-A02D-0B12ECCD413E} = {778EEEEB-EC88-44E5-986B-F86780AB1498}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F66A3149-66E0-41BD-B59C-77AA52C0AAB1}
